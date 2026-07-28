@@ -342,7 +342,6 @@ input.form-control::placeholder {
     color: #fefefd;
     text-transform: uppercase;
     font-weight: bold;
-    transform: rotate(90deg);
 }
 
 .images_main {
